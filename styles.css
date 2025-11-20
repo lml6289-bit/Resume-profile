@@ -71,7 +71,7 @@ body{
 /* Container */
 .container{
   max-width:1100px;
-  margin: -32px auto 24px; /* lift up to overlap header slightly */
+  margin: 24px auto; /* no overlap */
   padding: 0 16px;
   display:flex;
   flex-direction:column;
